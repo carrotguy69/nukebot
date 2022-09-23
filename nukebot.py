@@ -47,4 +47,6 @@ async def on_ready():
             await c.send("@everyone get nuked bozo")
             await asyncio.sleep(0.2)
 
-client.run("PASTE YOUR TOKEN HERE")
+bot = True # if you want this to be a self bot (run within a normal discord account, set this to False
+
+client.run("PASTE YOUR TOKEN HERE", bot = bot)
