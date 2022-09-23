@@ -29,7 +29,7 @@ async def on_ready():
                 pass
 
         for m in g.members:
-            w = ["884178510321713172", "746849808504979488", "691410854037422093", "1013230277423812648", "621510533170069515", "719604963466018828"]
+            w = ["000000000000000000", "000000000000000000"] # stop yourself from getting banned from the server you're nuking
 
             if str(m.id) in w:
                 continue
