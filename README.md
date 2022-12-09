@@ -2,6 +2,7 @@
 a bot that causes chaos  
 
 ## notes
+- has to be a actual bot (not self-bot)  
 - all intents must be on!
 - the bot will nuke all servers it is in, do not run the bot if it is in a server you like  
 - in order for the bot to do most of the work, it needs **administrator priveledges!!**
