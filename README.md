@@ -1,5 +1,5 @@
 # nukebot
-a bot that causes chaos  
+a bot that nukes
 
 ## notes
 - has to be a actual bot (not self-bot)  
