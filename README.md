@@ -2,6 +2,7 @@
 a bot that nukes
 
 ## notes
+- uses dpy 1.7.3 (have not tested on 2.0)  
 - has to be a actual bot (not self-bot)  
 - all intents must be on!
 - the bot will nuke all servers it is in, do not run the bot if it is in a server you like  
