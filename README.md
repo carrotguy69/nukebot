@@ -1,5 +1,5 @@
 # nukebot
-a bot that nukes
+use this for servers you actually despise
 
 ## notes
 - uses dpy 1.7.3 (have not tested on 2.0)  
